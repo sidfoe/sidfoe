@@ -1,6 +1,6 @@
 ### ✨ Hello there and Welcome ✨ 
 
-My name is Sydney and I am a Gameplay/UI Programmer. I graduated in May 2021 from Bradley University, with a major in Game Design and minors in Computer Science and History. I am passionate about game development, and love to learn about all the ways to create games. I am currently looking for full-time work in the game industry. 
+My name is Sydney and I am a Gameplay/UI Programmer with about 2-3 years of experience. I've worked on projects like NBA 2K23, NBA 2K24, and NBA Clash with a variety of experience in console, pc and mobile development. I graduated in 2021 from Bradley University, with a major in Game Design and minors in Computer Science and History. I am passionate about game development, and love to learn about all the ways to create games. I am currently looking for full-time work in the game industry. 
 
 - Check out and play my projects on my [Portfolio](https://sidfoe.itch.io)
 - Find me at my [Linkedin](https://www.linkedin.com/in/sydney-f-5828b5100/)
